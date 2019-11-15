@@ -1,0 +1,178 @@
+/*navbar*/
+
+.navbar {
+    text-transform: uppercase;
+    font-family: 'PT Sans Narrow', Arial, sans-serif;
+    font-weight: 500;
+    color: green;
+    background-color: green;
+}
+
+
+
+
+be-example {
+    text-align: Center;
+}
+
+/*Slideshow*/
+
+.bd-example {
+    margin-bottom: 30px;
+}
+
+.bd-example img {
+    padding-top: 25px;
+    padding-left: 2px;
+}
+
+.bd-example h2 {
+    padding-left: 150px;
+    padding-top: 70px;
+    text-align: center;
+    color: Black;
+}
+
+/*SERVICES*/
+
+.services {
+    
+    background-color: #228B22;
+    padding: 70px 0 75px;
+    text-align: center;
+    
+}
+
+.services h2,
+.services h3,
+.services h5{
+    
+    color: Black;
+    margin: 20px 0 20px;
+    text-align: center;
+}
+
+.services p {
+    padding-left: 45px;
+}
+
+.services img {
+    
+    height: 450px;
+    width: 650px;
+}
+
+/* Carosel Can*/
+
+.carouselExampleControls {
+    padding: 20px;
+}
+
+.carouselExampleControls h4 {
+    color: Black;
+    padding-top: 10px;
+}
+
+.API {
+    padding-top: 20px;
+}
+
+
+/*Contact US*/
+
+.contact {
+    height: 600px;
+    width: 100%;
+    padding: 30px 0 30px;
+    margin-top: 0px;
+    background-color: #228B22;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 0 80px;
+    text-align: center;
+} 
+
+.contact p {
+    
+    padding-bottom: 80px;
+    color: Black;
+}
+
+.contact h4 {
+    
+    color: Black;
+    margin: 20px 0 20px;
+}
+
+.contact .input-group {
+   
+    margin-bottom: 25px;
+}
+
+.contact .form-control {
+    
+    border-radius: 0 !important;
+}
+
+.contact span {
+    color: yellow;
+    border-radius: 0 !important;
+    background-color: #D5AE41 ;
+}
+
+.contact .btn {
+    
+    border-radius: 0;
+    width: 100%;
+    font-size: 15px;
+    background-color: #FFD662;
+    color: Orange;
+}
+
+.contact .btn:hover {
+    
+    background-color: #D5AE41 !important;
+    color:Red !important;
+}
+
+.contact #text {
+    background:purple;
+}
+
+.footer {
+    
+    padding: 30px;
+    color: #cccccc;
+    background-color: Black;
+}
+
+
+.footer .social {
+    
+    font-size: 20px;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    padding: 5px;
+    border: 1px solid #cccccc;
+    margin-bottom: 10px;
+    margin-right: 5px;
+}
+
+
+.footer input {
+    
+    height: 40px;
+    width: 160px;
+    padding: 5px;
+    border: none;
+    background-color: #cccccc;
+    color: #000;
+}
+
+.footer .btn {
+    
+    padding: 10px 5px 10px;
+    margin: -3px 0 0 5px;
+}
