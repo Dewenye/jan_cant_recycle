@@ -1,0 +1,12 @@
+{
+  "name": "jan_cant_recycle",
+  "id": "6870187",
+  "description": "HELP JAN TO LEARN TO RECYCLE BETTER",
+  "gitUrl": "https://github.com/Dewenye/jan_cant_recycle.git",
+  "workspaceType": "html5",
+  "dockerBaseImage": "cloud9/ws-html5:2017-08-31T12-15-07Z",
+  "owner": {
+    "name": "dewenye",
+    "id": "2271619"
+  }
+}
